@@ -1,9 +1,9 @@
 
 public class hello{
     public static void main(String[] args){
-<<<<<<< HEAD
         System.out.prinntln("writing java code after so long time");
         greatting("Rockey");
+        system.out.prinntln("is it got an conflict on git ")
     }
 }
 public static void greatting(String a){
@@ -13,12 +13,6 @@ public static void greatting(String a){
 public static double square(in a){
     return a*a;
 }
-=======
-        System.out.prinntln('writing java code after so long time');
-        greatting('Raem');
-    }
+public static void day(){
+    System.out.println('today is Sunday');;
 }
-public static void greatting(String a){
-    System.out.println('bye bye '+a);
-}
->>>>>>> testB
